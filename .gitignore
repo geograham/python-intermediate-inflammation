@@ -16,3 +16,6 @@
 # Virtual environments
 venv/
 .venv/
+
+# ignore jupyter notebooks
+.ipynb_checkpoints
